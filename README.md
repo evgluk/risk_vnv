@@ -12,8 +12,8 @@ The src folder contains the code to run the tasks (in task) and also code that w
 
 data
 
-The data folder contains anonymized choice data from our subjects (not used stress data in the subfolder stress).
+The data folder contains anonymized choice data from our subjects.
 
 figs
 
-The figures folder contains high quality PDFs of the individual risk fits. Also, if you run the master scripts it will put figures in this folder.
+The figures folder contains high-quality PDFs of the individual risk fits. Also, if you run the master scripts it will put figures in this folder.
