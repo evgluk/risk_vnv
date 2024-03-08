@@ -1,6 +1,6 @@
 # risk_vnv
 
-Our study on verbal/nonverbal gap in risky choice.
+Supporting materials for our study on verbal/nonverbal gap in risky choice.
 
 To cite this work: 
 
