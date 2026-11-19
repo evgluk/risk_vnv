@@ -1,3 +1,3 @@
 # Figures
 
-This folder includes subject fits and will include main figures after running the master scripts.
+This folder will include main figures after running the master scripts.
