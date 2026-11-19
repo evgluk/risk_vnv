@@ -1,19 +1,15 @@
 # risk_vnv
 
-Supporting materials for our study on verbal/nonverbal gap in risky choice.
+Supporting materials for our study on verbal/nonverbal gap in risky choice:
 
-To cite this work: 
+/src
 
-[![DOI](https://zenodo.org/badge/.svg)](https://zenodo.org/badge/latestdoi/)
+The src folder contains the code to run the tasks (in /task) and also code that will generate the main figures (in /analysis).
 
-src
-
-The src folder contains the code to run the tasks (in task) and also code that will generate the main figures (in analysis).
-
-data
+/data
 
 The data folder contains anonymized choice data from our subjects.
 
-figs
+/figs
 
-The figures folder contains high-quality PDFs of the individual risk fits. Also, if you run the master scripts it will put figures in this folder.
+If you run the master scripts it will put figures in this folder.
