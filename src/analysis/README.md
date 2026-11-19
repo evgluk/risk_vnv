@@ -1,5 +1,3 @@
 ## Main Figures
 
-Use master.m to get main figures in Matlab
-
-Use master.Rmd to get main figures in R, master.html is the output.
+Use master.ipynb to create main figures and run the RT model.
